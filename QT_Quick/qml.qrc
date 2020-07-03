@@ -1,0 +1,10 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>Backbutton.qml</file>
+        <file>tree.qml</file>
+        <file>Stoppage.qml</file>
+        <file>Linepage.qml</file>
+        <file>Deppage.qml</file>
+    </qresource>
+</RCC>
